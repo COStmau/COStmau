@@ -8,4 +8,5 @@
 - 🌱 I’m currently working on improving my skills in C/C++/Python and learning more about ML/AI
 
 -->
-- 🌱 I’m currently working on improving my skills in C/C++/Python and learning more about ML/AI
+- 👩‍💻 I'm a college student in Texas!
+- 🌱 Currently working on improving my skills in C/C++/Python and learning more about ML/AI!
